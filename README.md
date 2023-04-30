@@ -12,4 +12,4 @@ zmiana 5
 
 zmian 6
 
-zmiana 7
+zmiana 7 zmiana 8
