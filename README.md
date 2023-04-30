@@ -11,3 +11,5 @@ zmiana 4
 zmiana 5
 
 zmian 6
+
+zmiana 7
